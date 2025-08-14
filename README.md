@@ -87,7 +87,8 @@ Minimal moving parts, low baseline cost, scalable paths later (WebSockets, queue
 
 ---
 
-## NOTE: This is currently under sole development by Louis Tran. This is for references only and maybe used for commercial in the future.
+
+
 
 
 
