@@ -1,4 +1,4 @@
-## NOTE: This project is currently being developed solely by Louis Tran. Is is provided for reference and may be used for other purpose in the future.
+## NOTE: This project is currently being developed solely by Louis Tran. It is provided for reference and may be used for other purpose in the future.
 
 # Good-Vibe Social Platform
 
@@ -88,6 +88,7 @@ Minimal moving parts, low baseline cost, scalable paths later (WebSockets, queue
 ---
 
 ## NOTE: This is currently under sole development by Louis Tran. This is for references only and maybe used for commercial in the future.
+
 
 
 
